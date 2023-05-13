@@ -841,7 +841,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
         post = ""
         name = ""
-        url = "https://github.com/dillonzq/LoveIt"
+        url = "https://github.com/sfeng1996"
         title = "GitHub"
     [languages.en.params]
       [languages.en.params.search]
@@ -862,15 +862,17 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         [languages.en.params.home.profile]
           enable = true
           gravatarEmail = ""
-          avatarURL = "/static/sfeng.jpg"
+          avatarURL = "/images/sfeng.jpg"
           title = ""
-          subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+          subtitle = "Play Cloud-Native together~"
           typeit = true
           social = true
           disclaimer = ""
       [languages.en.params.social]
         GitHub = "sfeng1996"
+        Bilibili = "382859797?spm_id_from=333.1007.0.0"
         Email = "SFeng1996@163.com"
+        Phone = "17756530893"
         RSS = true
         [languages.en.params.social.Mastodon]
           id = "@xxxx"
@@ -928,7 +930,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
         post = ""
         name = ""
-        url = "https://github.com/dillonzq/LoveIt"
+        url = "https://github.com/sfeng1996"
         title = "GitHub"
     [languages.zh-cn.params]
       [languages.zh-cn.params.search]
@@ -959,5 +961,5 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         GitHub = "sfeng1996"
         Bilibili = "382859797?spm_id_from=333.1007.0.0"
         Email = "SFeng1996@163.com"
-        Phone = "555-555-555"
+        Phone = "17756530893"
         RSS = true
