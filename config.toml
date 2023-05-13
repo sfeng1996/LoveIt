@@ -949,7 +949,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         [languages.zh-cn.params.home.profile]
           enable = true
           gravatarEmail = ""
-          avatarURL = "/static/sfeng.jpg"
+          avatarURL = "/images/sfeng.jpg"
           title = ""
           subtitle = "一起学习云原生~"
           typeit = true
@@ -959,5 +959,5 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         GitHub = "sfeng1996"
         Bilibili = "382859797?spm_id_from=333.1007.0.0"
         Email = "SFeng1996@163.com"
-        Phone = "17756530893"
+        Phone = "555-555-555"
         RSS = true
