@@ -131,7 +131,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       logo = ""
       # title name
       # 标题名称
-      name = "SFeng"
+      name = "SFeng's Blog"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = "<i class='far fa-kiss-wink-heart fa-fw' aria-hidden='true'></i>"
@@ -505,8 +505,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Valine 评论系统设置 (https://github.com/xCss/Valine)
       [params.page.comment.valine]
         enable = true
-        appId = "QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI"
-        appKey = "WBmoGyJtbqUswvfLh6L8iEBr"
+        appId = "AkrUA0Rb8tfj1Va787YXLve1-gzGzoHsz"
+        appKey = "vign60lYCKnZ1JcitMLPsfBn"
         placeholder = ""
         avatar = "mp"
         meta= ""
@@ -805,19 +805,19 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         title = ""
       [[languages.en.menu.main]]
         weight = 2
-        identifier = "tags"
-        pre = ""
-        post = ""
-        name = "Tags"
-        url = "/tags/"
-        title = ""
-      [[languages.en.menu.main]]
-        weight = 3
         identifier = "categories"
         pre = ""
         post = ""
         name = "Categories"
         url = "/categories/"
+        title = ""
+      [[languages.en.menu.main]]
+        weight = 3
+        identifier = "tags"
+        pre = ""
+        post = ""
+        name = "Tags"
+        url = "/tags/"
         title = ""
       [[languages.en.menu.main]]
         weight = 4
@@ -891,19 +891,19 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         title = ""
       [[languages.zh-cn.menu.main]]
         weight = 2
-        identifier = "tags"
-        pre = ""
-        post = ""
-        name = "标签"
-        url = "/tags/"
-        title = ""
-      [[languages.zh-cn.menu.main]]
-        weight = 3
         identifier = "categories"
         pre = ""
         post = ""
         name = "分类"
         url = "/categories/"
+        title = ""
+      [[languages.zh-cn.menu.main]]
+        weight = 3
+        identifier = "tags"
+        pre = ""
+        post = ""
+        name = "标签"
+        url = "/tags/"
         title = ""
       [[languages.zh-cn.menu.main]]
         weight = 4
