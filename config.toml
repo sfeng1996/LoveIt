@@ -255,7 +255,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # Home page profile
     # 主页个人信息
     [params.home.profile]
-      enable = true
+      enable = false
       # Gravatar Email for preferred avatar in home page
       # Gravatar 邮箱，用于优先在主页显示的头像
       gravatarEmail = "SFeng1996@163.com"
